@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nashy-page.vercel.app/sitemap.xml
